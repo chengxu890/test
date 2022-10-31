@@ -49,7 +49,6 @@ const MainMint = ({ accounts, setAccounts }) => {
             frontSize="30px"
             color="blue"
             letterSpacing="1%"
-            textShadow="0 2px 2px #000000"
             marginLeft="100px"
             marginRight="100px"
             marginTop="10px"
